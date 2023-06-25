@@ -17,7 +17,7 @@ I was docked points for not acknowleding "that even minor grammatical and spelli
 
 **How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?**
 
-The user needs should be at the forefront when designing software, because if they cannot use it successfully, the software will be a flop. It's important to make sure the user can actually use the software. The whole point of software is for users to use it. If it's not easy to use and understand, it won't be purchased, and clients won't be happy.
+The user's needs should be at the forefront when designing software, because if they cannot use it successfully, the software will be a flop. The point of software is for users to use it. If it's not easy to use and understand, it won't be purchased, and clients won't be happy with developers results.
 
 **How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?**
 
