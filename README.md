@@ -9,7 +9,7 @@ I was clear and concise in my desriptions, which makes the document easy to read
 
 **What about the process of working through a design document did you find helpful when developing the code?**
 
-The design document helped keep things organized and managable. When there is a lot to code, and a lot of code already written that needs to be gone through, having a design document makes it easier to see what has been done, what still needs to be done, and what changes need to be made. Being able to reference the design document is easier than weeding through hundreds or thousands of lines of code. 
+The design document helped keep things organized and managable. When there is a lot to code, and a lot of code already written that needs to be looked through, having a design document makes it easier to see what has been done, what still needs to be done, and what changes have been made. Being able to reference the design document is easier than weeding through hundreds or thousands of lines of code. 
 
 **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
 
